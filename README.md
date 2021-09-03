@@ -1,8 +1,10 @@
-- 👋 Hello World, I’m @Alaukick
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+MAKE EVERYTHING AS
+SIMPLE AS POSSIBLE,
+BUT NOT SIMPLER.
+▶ ( UI / UX Designer )
+▶ (Application Developer)
+▶ (Web Designer)
+▶ (Product Designer)
 
 <!---
 Alaukick/Alaukick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
